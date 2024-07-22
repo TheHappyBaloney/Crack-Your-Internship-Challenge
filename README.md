@@ -1,2 +1,2 @@
 # Crack-Your-Internship-Challenge
-Repository for maintaining #CrackYourInternship Codes and updating progress.
+Repository for maintaining #CrackYourInternship Challenge by Arsh Goyal Codes and updating progress.
